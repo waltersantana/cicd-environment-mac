@@ -1,0 +1,4 @@
+# Custome rule: zzz. files and folders
+zzz.*
+tmp/
+temp/
